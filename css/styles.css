@@ -155,7 +155,7 @@ header.scroll-nav {
 }
 
 .works {
-  background-image: url(https://github.com/takaumikim/portfolio3/blob/main/img/works-bgi@2x.jpg?raw=true);
+  background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/works-bgi@2x.jpg?raw=true);
   background-size: contain;
   position: relative;
   margin-top: 80px;
@@ -282,7 +282,7 @@ header.scroll-nav {
 }
 
 .service-item1 {
-  background-image: url(https://github.com/takaumikim/portfolio3/blob/main/img/service-img01@2x.jpg?raw=true);
+  background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/service-img01@2x.jpg?raw=true);
   background-size: cover;
   width: 100%;
   text-align: center;
@@ -291,7 +291,7 @@ header.scroll-nav {
 }
 
 .service-item2 {
-  background-image: url(https://github.com/takaumikim/portfolio3/blob/main/img/service-img02@2x.jpg?raw=true);
+  background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/service-img02@2x.jpg?raw=true);
   background-size: cover;
   width: 100%;
   text-align: center;
@@ -300,7 +300,7 @@ header.scroll-nav {
 }
 
 .service-item3 {
-  background-image: url(https://github.com/takaumikim/portfolio3/blob/main/img/sevice-img03@2x.jpg?raw=true);
+  background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/sevice-img03@2x.jpg?raw=true);
   background-size: cover;
   width: 100%;
   text-align: center;
@@ -357,7 +357,7 @@ header.scroll-nav {
 }
 
 .contact {
-  background-image: url(https://github.com/takaumikim/portfolio3/blob/main/img/contact-bgi@2x.jpg?raw=true);
+  background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/contact-bgi@2x.jpg?raw=true);
   background-size: cover;
   height: 600px;
   position: relative;
