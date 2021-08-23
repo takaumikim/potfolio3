@@ -305,7 +305,14 @@ body {
 }
 
 @media (max-width: 640px) {
- 
+  .section-bottom1 {
+    font-size: 40px;
+  }
+
+  .link-btn {
+    top: 1100px;
+    max-width: 100%;
+  }
   
  
 }

@@ -154,6 +154,15 @@ header.scroll-nav {
   padding-top: 50px;
 }
 
+.section-bottom3 {
+  font-size: 400%;
+  font-family: Noto Serif;
+  color: #f1ebeb;
+  text-align: right;
+  padding-right: 10%;
+  padding-top: 50px;
+}
+
 .works {
   background-image: url(https://github.com/takaumikim/potfolio3/blob/main/img/works-bgi@2x.jpg?raw=true);
   background-size: contain;
@@ -592,6 +601,10 @@ header.scroll-nav {
 }
 
 @media (max-width: 640px) {
+  .en-copy {
+    font-size: 40px;
+  }
+
   .jp-copy {
     padding-left: 10%;
   }
@@ -623,7 +636,28 @@ header.scroll-nav {
   }
 
   .section-title1 {
-    right: 5%;
+    right: 3%;
+    font-size: 40px;
+  }
+
+  .section-title1::after {
+    width: 70px;
+  }
+
+  .section-title {
+    font-size: 40px;
+  }
+
+  .section-bottom {
+    font-size: 40px;
+  }
+
+  .section-title2 {
+    font-size: 40px;
+  }
+
+  .section-title2::after {
+    width: 70px;
   }
 
   .works {
@@ -665,6 +699,11 @@ header.scroll-nav {
     font-size: 40px;
   }
 
+
+  .section-bottom3 {
+    font-size: 40px;
+  }
+
   .service {
     height: 1200px;
     position: relative;
@@ -693,6 +732,20 @@ header.scroll-nav {
     font-size: 40px;
     position: relative;
     top: 500px;
+  }
+
+  .link-btn1 {
+    top: 60%;
+    max-width: 100%;
+  }
+
+  .contact-text {
+    white-space: nowrap;
+    max-width: 100%;
+  }
+
+  .section-bottom2 {
+    font-size: 40px;
   }
 
 }
